@@ -12,7 +12,13 @@ public class Controller {
     }
 
     @GetMapping("/second")
-    public String hahaha(){
+    public String something(){
         return "second Hello";
     }
+
+
+
+
+
+
 }
